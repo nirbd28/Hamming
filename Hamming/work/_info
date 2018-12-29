@@ -1,0 +1,193 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Projects/Quartus/Hamming
+Pfunctions
+Z1 DPx4 ieee 9 math_real 0 22 Sk6CSihbPL<f[^Shm]=KX0
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 w1543239542
+R0
+Z6 8D:/Projects/Quartus/Hamming/functions.vhd
+Z7 FD:/Projects/Quartus/Hamming/functions.vhd
+l0
+L6
+VK:afMieS9:5>U_GJgZFG<2
+!s100 n`[`^iWgWiB1dhnNOGU_02
+Z8 OV;C;10.5b;63
+31
+b1
+Z9 !s110 1543434262
+!i10b 1
+Z10 !s108 1543434262.000000
+Z11 !s90 -reportprogress|300|-work|work|D:/Projects/Quartus/Hamming/functions.vhd|
+Z12 !s107 D:/Projects/Quartus/Hamming/functions.vhd|
+!i113 1
+Z13 o-work work
+Z14 tExplicit 1 NoCoverage 1 CvgOpt 0
+Bbody
+Z15 DPx4 work 9 functions 0 22 K:afMieS9:5>U_GJgZFG<2
+R1
+R2
+R3
+R4
+l0
+L13
+VS3LA5SdhcAdL`Bc6ZKmBU0
+!s100 >5W12aQ>nEk]K8aMkS_Wb3
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ehamming_tb
+Z16 w1543434217
+R1
+R15
+R2
+Z17 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z18 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R3
+R4
+R0
+Z19 8D:/Projects/Quartus/Hamming/Hamming_tb.vhd
+Z20 FD:/Projects/Quartus/Hamming/Hamming_tb.vhd
+l0
+L10
+V^X5SPj0Mihf8id8U2@3X42
+!s100 `0E5VnXjkmY;<ja[zo2:G3
+R8
+31
+R9
+!i10b 1
+R10
+Z21 !s90 -reportprogress|300|-work|work|D:/Projects/Quartus/Hamming/Hamming_tb.vhd|
+Z22 !s107 D:/Projects/Quartus/Hamming/Hamming_tb.vhd|
+!i113 1
+R13
+R14
+Aarc_hamming_tb
+R1
+R15
+R2
+R17
+R18
+R3
+R4
+DEx4 work 10 hamming_tb 0 22 ^X5SPj0Mihf8id8U2@3X42
+l60
+L14
+VAC0S6gK32m5BXV5d2TFM:3
+!s100 aUQ1N5k5CR_bP4>5eE;lB1
+R8
+31
+R9
+!i10b 1
+R10
+R21
+R22
+!i113 1
+R13
+R14
+Ehammingdecoder
+Z23 w1543433998
+R15
+R1
+R2
+R3
+R4
+R0
+Z24 8D:/Projects/Quartus/Hamming/HammingDecoder.vhd
+Z25 FD:/Projects/Quartus/Hamming/HammingDecoder.vhd
+l0
+L7
+VfbFnbcIGfH9Rbj1kl2C;]2
+!s100 0<2cT`Yb_0PSH[gSRdkGh3
+R8
+31
+R9
+!i10b 1
+R10
+Z26 !s90 -reportprogress|300|-work|work|D:/Projects/Quartus/Hamming/HammingDecoder.vhd|
+Z27 !s107 D:/Projects/Quartus/Hamming/HammingDecoder.vhd|
+!i113 1
+R13
+R14
+Ahammingdecoder_arch
+R15
+R1
+R2
+R3
+R4
+DEx4 work 14 hammingdecoder 0 22 fbFnbcIGfH9Rbj1kl2C;]2
+l29
+L24
+VjE3LCjX;;`l6fVG>d2b@A0
+!s100 S2WeTca:T7@STdeOdeoOV0
+R8
+31
+R9
+!i10b 1
+R10
+R26
+R27
+!i113 1
+R13
+R14
+Ehammingencoder
+Z28 w1543434049
+R15
+R1
+R2
+R3
+R4
+R0
+Z29 8D:/Projects/Quartus/Hamming/HammingEncoder.vhd
+Z30 FD:/Projects/Quartus/Hamming/HammingEncoder.vhd
+l0
+L7
+V<2j4GOzbMiZJDkM70fE[53
+!s100 4f:BjZ77T0cO<]0KFHFfk0
+R8
+31
+R9
+!i10b 1
+R10
+Z31 !s90 -reportprogress|300|-work|work|D:/Projects/Quartus/Hamming/HammingEncoder.vhd|
+Z32 !s107 D:/Projects/Quartus/Hamming/HammingEncoder.vhd|
+!i113 1
+R13
+R14
+Ahammingencoder_arch
+R15
+R1
+R2
+R3
+R4
+Z33 DEx4 work 14 hammingencoder 0 22 <2j4GOzbMiZJDkM70fE[53
+l27
+L22
+Z34 V_P4^YMJUe8f;?UEJWGKEg1
+Z35 !s100 zY_jR4lnQ6CZz`8Wk^44K2
+R8
+31
+R9
+!i10b 1
+R10
+R31
+R32
+!i113 1
+R13
+R14
